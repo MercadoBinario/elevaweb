@@ -1,0 +1,560 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-26 12:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: elevaweb_network.php:15 elevaweb.php:723
+msgid "Networks"
+msgstr ""
+
+#: elevaweb_network.php:23 elevaweb_network.php:113
+msgid "Facebook"
+msgstr ""
+
+#: elevaweb_network.php:31 elevaweb_network.php:79
+msgid "Connected To : "
+msgstr ""
+
+#: elevaweb_network.php:40 elevaweb_network.php:85
+msgid "+ Profile"
+msgstr ""
+
+#: elevaweb_network.php:43
+msgid "+ Page"
+msgstr ""
+
+#: elevaweb_network.php:71 elevaweb_network.php:90
+msgid "Instagram"
+msgstr ""
+
+#: elevaweb_network.php:106 elevaweb_network.php:167
+msgid "Save Settings"
+msgstr ""
+
+#: elevaweb_network.php:131
+msgid "Save Settings & Authorize"
+msgstr ""
+
+#: elevaweb_network.php:141
+msgid "Twitter"
+msgstr ""
+
+#: elevaweb.php:44
+msgid "Once every 5 minutes"
+msgstr ""
+
+#: elevaweb.php:49
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: elevaweb.php:493 elevaweb_include.php:953
+msgid "Click here to view full post"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: elevaweb.php:717 elevaweb.php:733 elevaweb.php:757 elevaweb_include.php:105
+#: elevaweb_include.php:292 elevaweb_include.php:321 elevaweb_actions.php:147
+msgid "Elevaweb"
+msgstr ""
+
+#: elevaweb.php:718
+msgid "Dashboard"
+msgstr ""
+
+#: elevaweb.php:719
+msgid "New Auto Post"
+msgstr ""
+
+#: elevaweb.php:720
+msgid "My Post Configuration"
+msgstr ""
+
+#: elevaweb.php:725 templates/tools.php:2
+msgid "Tools"
+msgstr ""
+
+#: elevaweb.php:726 templates/edit-post.php:7 templates/profile.php:10
+msgid "Profile"
+msgstr ""
+
+#: elevaweb.php:727 log.php:15 log.php:16
+msgid "Log"
+msgstr ""
+
+#: elevaweb.php:728 elevaweb_include.php:326 elevaweb_include.php:335
+msgid "Change Password"
+msgstr ""
+
+#: elevaweb.php:729
+msgid "Logout"
+msgstr ""
+
+#: elevaweb.php:734 elevaweb.php:770 elevaweb_include.php:310
+msgid "Login"
+msgstr ""
+
+#: elevaweb.php:735
+msgid "Register"
+msgstr ""
+
+#: elevaweb.php:736
+msgid "Forgot Password"
+msgstr ""
+
+#: elevaweb.php:760 elevaweb_include.php:108 elevaweb_include.php:295
+#: elevaweb_include.php:324
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: elevaweb.php:763
+msgid "E-mail"
+msgstr ""
+
+#: elevaweb.php:766 elevaweb_include.php:117
+msgid "Password"
+msgstr ""
+
+#: elevaweb.php:773 elevaweb_include.php:121
+msgid "Create Account"
+msgstr ""
+
+#: elevaweb.php:778
+msgid "Forgot your password? Click here to "
+msgstr ""
+
+#: elevaweb.php:778 elevaweb_include.php:303
+msgid "Recover"
+msgstr ""
+
+#: elevaweb.php:779
+msgid "You wil receive an e-mail with new password"
+msgstr ""
+
+#: elevaweb.php:1157 elevaweb.php:1161
+msgid "Settings"
+msgstr ""
+
+#: myposts.php:13 myposts.php:14
+msgid "My Posts"
+msgstr ""
+
+#: myposts.php:27
+msgid "Source Name"
+msgstr ""
+
+#: myposts.php:28
+msgid "Source Category"
+msgstr ""
+
+#: myposts.php:29
+msgid "My Site Category"
+msgstr ""
+
+#: myposts.php:30
+msgid "Status"
+msgstr ""
+
+#: myposts.php:31
+msgid "Actions"
+msgstr ""
+
+#: myposts.php:32
+msgid "Week Day/Time"
+msgstr ""
+
+#: myposts.php:46
+msgid "Edit"
+msgstr ""
+
+#: myposts.php:47 myposts.php:116
+msgid "Delete"
+msgstr ""
+
+#: myposts.php:49
+msgid "Pause"
+msgstr ""
+
+#: myposts.php:52
+msgid "Play"
+msgstr ""
+
+#: myposts.php:58 myposts.php:188
+msgid "Active"
+msgstr ""
+
+#: myposts.php:61 myposts.php:189
+msgid "Error"
+msgstr ""
+
+#: myposts.php:187
+msgid "All"
+msgstr ""
+
+#: elevaweb_include.php:102
+msgid ""
+"Start by registering an account to start using Elevaweb and automate your "
+"production of content. Just enter your full name, email, and password. \""
+msgstr ""
+
+#: elevaweb_include.php:111
+msgid "Full Name"
+msgstr ""
+
+#: elevaweb_include.php:114
+msgid "Email"
+msgstr ""
+
+#: elevaweb_include.php:128
+msgid "Do you have an account?"
+msgstr ""
+
+#: elevaweb_include.php:128
+msgid "click here"
+msgstr ""
+
+#: elevaweb_include.php:202
+msgid "Welcome to Elevaweb, now you can auto post in your website."
+msgstr ""
+
+#: elevaweb_include.php:203
+msgid ""
+"To create your first Blog Post automation click on the pencil (right) and "
+"select which content do you want in your website."
+msgstr ""
+
+#: elevaweb_include.php:204
+msgid ""
+"There we will explain you how to do that. If you prefer, can watch this\n"
+"step by step video (link > <a href=\"https://goo.gl/CMSr5w)\" "
+"target=\"_blank\">https://goo.gl/CMSr5w)</a>."
+msgstr ""
+
+#: elevaweb_include.php:206
+msgid "Thanks\""
+msgstr ""
+
+#: elevaweb_include.php:209
+msgid "Last Post"
+msgstr ""
+
+#: elevaweb_include.php:297
+msgid "Recover Password"
+msgstr ""
+
+#: elevaweb_include.php:299
+msgid "Enter Email"
+msgstr ""
+
+#: elevaweb_include.php:309
+msgid "You will receive an email with new password"
+msgstr ""
+
+#: elevaweb_include.php:310
+msgid "Remember your password? click here to "
+msgstr ""
+
+#: elevaweb_include.php:328
+msgid "Old Password"
+msgstr ""
+
+#: elevaweb_include.php:331
+msgid "New Password"
+msgstr ""
+
+#: elevaweb_include.php:496 elevaweb_actions.php:282
+msgid "Something Went Wrong"
+msgstr ""
+
+#: elevaweb_include.php:541
+msgid "Your Domain has been forbidden."
+msgstr ""
+
+#: elevaweb_include.php:685 elevaweb_include.php:708
+msgid "Your post has been scheduled. You can check it in myposts"
+msgstr ""
+
+#: elevaweb_include.php:692 elevaweb_include.php:718
+msgid "Error while processing your request. Please try again."
+msgstr ""
+
+#: elevaweb_include.php:1072 elevaweb_include.php:1079
+msgid "Sorry! No post found."
+msgstr ""
+
+#: log.php:24 templates/edit-post.php:109
+msgid "Post Title"
+msgstr ""
+
+#: log.php:25
+msgid "Original Post Link"
+msgstr ""
+
+#: log.php:26
+msgid "Category"
+msgstr ""
+
+#: log.php:28
+msgid "Date and time for publication"
+msgstr ""
+
+#: elevaweb_actions.php:14 elevaweb_actions.php:465 elevaweb_actions.php:499
+msgid "Duplicate Entry Found"
+msgstr ""
+
+#: elevaweb_actions.php:31 elevaweb_actions.php:139
+msgid "Success"
+msgstr ""
+
+#: elevaweb_actions.php:34
+msgid "Maximum Account Limit Reached"
+msgstr ""
+
+#: elevaweb_actions.php:37
+msgid "Some Parameters Are Missing"
+msgstr ""
+
+#: elevaweb_actions.php:111
+msgid "No Results Found"
+msgstr ""
+
+#: elevaweb_actions.php:114
+msgid "Id Not Define"
+msgstr ""
+
+#: elevaweb_actions.php:280
+msgid "Deleted Successfully"
+msgstr ""
+
+#: elevaweb_actions.php:483 elevaweb_actions.php:511
+msgid "Maximum Amount Reached"
+msgstr ""
+
+#: templates/new-post.php:23
+msgid "Post"
+msgstr ""
+
+#: templates/new-post.php:29 templates/edit-post.php:13
+msgid "Choose Source/Website"
+msgstr ""
+
+#: templates/new-post.php:31 templates/edit-post.php:15
+msgid "Source:"
+msgstr ""
+
+#: templates/new-post.php:34 templates/edit-post.php:18
+msgid "--select feed--"
+msgstr ""
+
+#: templates/new-post.php:42 templates/edit-post.php:32
+msgid "Please select the feed."
+msgstr ""
+
+#: templates/new-post.php:44 templates/new-post.php:53
+#: templates/edit-post.php:34 templates/edit-post.php:85
+msgid "Category:"
+msgstr ""
+
+#: templates/new-post.php:47 templates/edit-post.php:38
+msgid "--select feed first--"
+msgstr ""
+
+#: templates/new-post.php:50 templates/edit-post.php:40
+msgid "Please select the feed category."
+msgstr ""
+
+#: templates/new-post.php:52 templates/edit-post.php:84
+msgid "In Your Blog"
+msgstr ""
+
+#: templates/new-post.php:56 templates/edit-post.php:88
+msgid "--select a destination category--"
+msgstr ""
+
+#: templates/new-post.php:65 templates/edit-post.php:103
+msgid "Tags:"
+msgstr ""
+
+#: templates/new-post.php:69
+msgid "Title: "
+msgstr ""
+
+#: templates/new-post.php:74 templates/edit-post.php:112
+msgid "Don’t publish posts with these words :"
+msgstr ""
+
+#: templates/new-post.php:80 templates/edit-post.php:120
+msgid "Publish online posts with these words :"
+msgstr ""
+
+#: templates/new-post.php:91 templates/edit-post.php:135
+msgid "Images:"
+msgstr ""
+
+#: templates/new-post.php:96 templates/edit-post.php:147
+msgid "Skip posts without image"
+msgstr ""
+
+#: templates/new-post.php:99 templates/edit-post.php:157
+msgid "Remove post image"
+msgstr ""
+
+#: templates/new-post.php:102 templates/edit-post.php:167
+msgid "Add image"
+msgstr ""
+
+#: templates/new-post.php:105 templates/edit-post.php:182
+msgid ""
+"It will force use these images and ignore source found images\n"
+"\t(image URL comma separated)"
+msgstr ""
+
+#: templates/new-post.php:108 templates/edit-post.php:193
+msgid "Select Day and time to publish:"
+msgstr ""
+
+#: templates/new-post.php:113 templates/edit-post.php:198
+msgid "Sunday"
+msgstr ""
+
+#: templates/new-post.php:114 templates/edit-post.php:199
+msgid "Monday"
+msgstr ""
+
+#: templates/new-post.php:115 templates/edit-post.php:200
+msgid "Tuesday"
+msgstr ""
+
+#: templates/new-post.php:116 templates/edit-post.php:201
+msgid "Wednesday"
+msgstr ""
+
+#: templates/new-post.php:117 templates/edit-post.php:202
+msgid "Thursday"
+msgstr ""
+
+#: templates/new-post.php:118 templates/edit-post.php:203
+msgid "Friday"
+msgstr ""
+
+#: templates/new-post.php:119 templates/edit-post.php:204
+msgid "Saturday"
+msgstr ""
+
+#: templates/new-post.php:208 templates/edit-post.php:349
+msgid "Please select the day."
+msgstr ""
+
+#: templates/new-post.php:212 templates/new-post.php:216
+#: templates/edit-post.php:357
+msgid "Hour"
+msgstr ""
+
+#: templates/new-post.php:222
+msgid "00"
+msgstr ""
+
+#: templates/new-post.php:229 templates/edit-post.php:386
+msgid "Please select the time."
+msgstr ""
+
+#: templates/new-post.php:233 templates/edit-post.php:389
+#: templates/profile.php:54
+msgid "Save"
+msgstr ""
+
+#: templates/new-post.php:234
+msgid "Save and Publish"
+msgstr ""
+
+#: templates/myposts.php:12
+msgid "My Posts Configuration"
+msgstr ""
+
+#: templates/edit-post.php:105
+msgid "Use comma to separate each tag"
+msgstr ""
+
+#: templates/edit-post.php:107
+msgid "Title:"
+msgstr ""
+
+#: templates/edit-post.php:114
+msgid ""
+"The robot will not post articles it contains one or more or this word (comma "
+"separated)"
+msgstr ""
+
+#: templates/edit-post.php:122
+msgid ""
+"The robot will read the texts and post only the article it contains\n"
+"\tone or mor of this word.(comma separated)"
+msgstr ""
+
+#: templates/edit-post.php:353
+msgid "Time"
+msgstr ""
+
+#: templates/edit-post.php:371
+msgid "Minutes"
+msgstr ""
+
+#: templates/log.php:2
+msgid "Last Posts"
+msgstr ""
+
+#: templates/profile.php:17
+msgid "User Information"
+msgstr ""
+
+#: templates/profile.php:35
+msgid "Name:"
+msgstr ""
+
+#: templates/profile.php:39
+msgid "E-Mail:"
+msgstr ""
+
+#: templates/profile.php:43
+msgid "Phone:"
+msgstr ""
+
+#: templates/profile.php:47
+msgid "Website:"
+msgstr ""
+
+#: templates/profile.php:49
+msgid "Active Services:"
+msgstr ""
+
+#: templates/profile.php:50
+msgid "content, e-mail, sharing (edit)"
+msgstr ""
+
+#: templates/profile.php:51
+msgid "Registration Date:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for Elevaweb Auto Post."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://URI_Of_Page_Describing_Plugin_and_Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://URI_Of_The_Plugin_Author"
+msgstr ""

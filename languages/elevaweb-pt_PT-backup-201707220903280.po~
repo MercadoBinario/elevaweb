@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elevaweb v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-07-21 13:09+0000\n"
+"PO-Revision-Date: 2017-07-22 08:39+0000\n"
+"Last-Translator: root <2585shah@gmail.com>\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt-PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:"
+"1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: ."
+
+#: elevaweb_network.php:15 elevaweb.php:722
+msgid "Networks"
+msgstr ""
+
+#: elevaweb_network.php:23 elevaweb_network.php:113
+msgid "Facebook"
+msgstr ""
+
+#: elevaweb_network.php:31 elevaweb_network.php:79
+msgid "Connected To : "
+msgstr ""
+
+#: elevaweb_network.php:40 elevaweb_network.php:85
+msgid "+ Profile"
+msgstr ""
+
+#: elevaweb_network.php:43
+msgid "+ Page"
+msgstr ""
+
+#: elevaweb_network.php:71 elevaweb_network.php:90
+msgid "Instagram"
+msgstr ""
+
+#: elevaweb_network.php:106 elevaweb_network.php:167
+msgid "Save Settings"
+msgstr ""
+
+#: elevaweb_network.php:131
+msgid "Save Settings & Authorize"
+msgstr ""
+
+#: elevaweb_network.php:141
+msgid "Twitter"
+msgstr ""
+
+#: elevaweb.php:493 elevaweb_include.php:949
+msgid "Click here to view full post"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: elevaweb.php:716 elevaweb.php:732 elevaweb_actions.php:138
+msgid "Elevaweb"
+msgstr ""
+
+#: elevaweb.php:717
+msgid "Dashboard"
+msgstr ""
+
+#: elevaweb.php:724
+msgid "Tools"
+msgstr ""
+
+#: elevaweb.php:725
+msgid "Profile"
+msgstr ""
+
+#: elevaweb.php:726
+msgid "Log"
+msgstr ""
+
+#: elevaweb.php:727 elevaweb_include.php:326
+msgid "Change Password"
+msgstr ""
+
+#: elevaweb.php:728
+msgid "Logout"
+msgstr ""
+
+#: elevaweb.php:734
+msgid "Register"
+msgstr ""
+
+#: elevaweb.php:735
+msgid "Forgot Password"
+msgstr ""
+
+#: elevaweb.php:759 elevaweb_include.php:107 elevaweb_include.php:286
+#: elevaweb_include.php:315
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: elevaweb.php:777
+msgid "Forgot your password? Click here to"
+msgstr ""
+
+#: myposts.php:15 myposts.php:16
+msgid "My Posts"
+msgstr ""
+
+#: elevaweb_include.php:290
+msgid "Enter Email"
+msgstr ""
+
+#: elevaweb_include.php:300
+msgid "You will receive an email with new password"
+msgstr ""
+
+#: elevaweb_include.php:301
+msgid "Remember your password? click here to "
+msgstr ""
+
+#: elevaweb_include.php:319
+msgid "Old Password"
+msgstr ""
+
+#: elevaweb_include.php:322
+msgid "New Password"
+msgstr ""
+
+#: elevaweb_include.php:490 elevaweb_actions.php:273
+msgid "Something Went Wrong"
+msgstr ""
+
+#: elevaweb_include.php:535
+msgid "Your Domain has been forbidden."
+msgstr ""
+
+#: elevaweb_include.php:679 elevaweb_include.php:702
+msgid "Your post has been scheduled. You can check it in myposts"
+msgstr ""
+
+#: elevaweb_include.php:686 elevaweb_include.php:712
+msgid "Error while processing your request. Please try again."
+msgstr ""
+
+#: elevaweb_include.php:1066
+msgid "Sorry! No post found."
+msgstr ""
+
+#: elevaweb_actions.php:14 elevaweb_actions.php:456 elevaweb_actions.php:490
+msgid "Duplicate Entry Found"
+msgstr ""
+
+#: elevaweb_actions.php:31 elevaweb_actions.php:130
+msgid "Success"
+msgstr ""
+
+#: elevaweb_actions.php:34
+msgid "Maximum Account Limit Reached"
+msgstr ""
+
+#: elevaweb_actions.php:37
+msgid "Some Parameters Are Missing"
+msgstr ""
+
+#: elevaweb_actions.php:102
+msgid "No Results Found"
+msgstr ""
+
+#: elevaweb_actions.php:105
+msgid "Id Not Define"
+msgstr ""
+
+#: elevaweb_actions.php:271
+msgid "Deleted Successfully"
+msgstr ""
+
+#: elevaweb_actions.php:474 elevaweb_actions.php:502
+msgid "Maximum Amount Reached"
+msgstr ""
+
+#: templates/new-post.php:41 templates/edit-post.php:31
+msgid "Please select the feed."
+msgstr ""
+
+#: templates/new-post.php:49 templates/edit-post.php:39
+msgid "Please select the feed category."
+msgstr ""
+
+#: templates/new-post.php:203 templates/edit-post.php:347
+msgid "Please select the day."
+msgstr ""
+
+#: templates/new-post.php:207 templates/edit-post.php:351
+msgid "Time"
+msgstr ""
+
+#: templates/new-post.php:211 templates/edit-post.php:355
+msgid "Hour"
+msgstr ""
+
+#: templates/new-post.php:217
+msgid "00"
+msgstr ""
+
+#: templates/new-post.php:224 templates/edit-post.php:384
+msgid "Please select the time."
+msgstr ""
+
+#: templates/new-post.php:228 templates/edit-post.php:387
+#: templates/profile.php:36
+msgid "Save"
+msgstr ""
+
+#: templates/new-post.php:229
+msgid "Save and Publish"
+msgstr ""
+
+#: templates/edit-post.php:196
+msgid "Sunday"
+msgstr ""
+
+#: templates/edit-post.php:197
+msgid "Monday"
+msgstr ""
+
+#: templates/edit-post.php:198
+msgid "Tuesday"
+msgstr ""
+
+#: templates/edit-post.php:199
+msgid "Wednesday"
+msgstr ""
+
+#: templates/edit-post.php:200
+msgid "Thursday"
+msgstr ""
+
+#: templates/edit-post.php:201
+msgid "Friday"
+msgstr ""
+
+#: templates/edit-post.php:202
+msgid "Saturday"
+msgstr ""
+
+#: templates/edit-post.php:369
+msgid "Minutes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for Elevaweb Auto Post."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://URI_Of_Page_Describing_Plugin_and_Updates"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://URI_Of_The_Plugin_Author"
+msgstr ""
+
+#: elevaweb.php:777 elevaweb_include.php:294
+msgid "Recover"
+msgstr "Recuperar"
+
+#: elevaweb.php:719
+msgid "My Post Configuration"
+msgstr "My Post Configuration portuguese"
+
+#: elevaweb.php:718
+msgid "New Post"
+msgstr "Nova postagem abc"
+
+#: elevaweb.php:733 elevaweb.php:769 elevaweb_include.php:301
+msgid "Login"
+msgstr "Entrar"
+
+#: elevaweb.php:762
+msgid "Username"
+msgstr "Nome do usuário"
+
+#: elevaweb.php:765 elevaweb_include.php:116
+msgid "Password"
+msgstr "Senha"
+
+#: elevaweb.php:772 elevaweb_include.php:120
+msgid "Create Account"
+msgstr "Criar Conta"
+
+#: elevaweb.php:778
+msgid "You wil receive an e-mail with new password"
+msgstr "Você receberá um e-mail com uma nova senha"
+
+#: elevaweb_include.php:110
+msgid "Full Name"
+msgstr "Nome Completo"
+
+#: elevaweb_include.php:113
+msgid "Email"
+msgstr "E-mail"
+
+#: elevaweb_include.php:127
+msgid "Do you have an account?"
+msgstr "Não tem uma conta?"
+
+#: elevaweb_include.php:127
+msgid "click here"
+msgstr "Clique aqui"

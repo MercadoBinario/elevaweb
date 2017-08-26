@@ -1,0 +1,584 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elevaweb\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 07:33+0000\n"
+"PO-Revision-Date: 2017-07-29 09:11+0000\n"
+"Last-Translator: root <2585shah@gmail.com>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: elevaweb_include.php:479
+msgid "--Select Category--"
+msgstr "--Selecione a Categoria--"
+
+#: elevaweb_actions.php:617
+msgid ""
+"Your password has been reset,Please check your email for your new temporary "
+"password.!"
+msgstr ""
+"Sua senha foi reiniciada, Verifique seu e-mail para sua nova senha "
+"temporária."
+
+#: elevaweb_actions.php:619
+msgid "Email id is not registered."
+msgstr "O ID do email não está registrado."
+
+#: elevaweb_network.php:15 elevaweb.php:723
+msgid "Networks"
+msgstr "Redes"
+
+#: elevaweb_network.php:23 elevaweb_network.php:113
+msgid "Facebook"
+msgstr "Facebook"
+
+#: elevaweb_network.php:31 elevaweb_network.php:79
+msgid "Connected To : "
+msgstr "Conectado a : "
+
+#: elevaweb_network.php:40 elevaweb_network.php:85
+msgid "+ Profile"
+msgstr "+ Perfil"
+
+#: elevaweb_network.php:43
+msgid "+ Page"
+msgstr "Página"
+
+#: elevaweb_network.php:71 elevaweb_network.php:90
+msgid "Instagram"
+msgstr "Instagram"
+
+#: elevaweb_network.php:106 elevaweb_network.php:167
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+#: elevaweb_network.php:131
+msgid "Save Settings & Authorize"
+msgstr "Salvar Configurações e Autorizar"
+
+#: elevaweb_network.php:141
+msgid "Twitter"
+msgstr "Twitter"
+
+#: elevaweb.php:44
+msgid "Once every 5 minutes"
+msgstr "Uma vez a cada 5 minutos"
+
+#: elevaweb.php:49
+msgid "Once every 30 minutes"
+msgstr "Uma vez a cada 30 minutos"
+
+#: elevaweb.php:493 elevaweb_include.php:955
+msgid "Click here to view full post"
+msgstr "Clique aqui para ver a publicação completa"
+
+#. Name of the plugin
+#. Author of the plugin
+#: elevaweb.php:717 elevaweb.php:733 elevaweb.php:757 elevaweb_include.php:105
+#: elevaweb_include.php:293 elevaweb_include.php:322 elevaweb_actions.php:147
+msgid "Elevaweb"
+msgstr "Elevaweb"
+
+#: elevaweb.php:718
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+#: elevaweb.php:719 templates/new-post.php:23
+msgid "New Auto Post"
+msgstr "Novo posto automático"
+
+#: elevaweb.php:720
+msgid "My Post Configuration"
+msgstr "Minha configuração de postagem"
+
+#: elevaweb.php:725 templates/tools.php:2
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: elevaweb.php:726 templates/edit-post.php:7 templates/profile.php:10
+msgid "Profile"
+msgstr "Perfil"
+
+#: elevaweb.php:727 log.php:15 log.php:16
+msgid "Log"
+msgstr "Registro"
+
+#: elevaweb.php:728 elevaweb_include.php:327 elevaweb_include.php:336
+msgid "Change Password"
+msgstr "Mudar senha"
+
+#: elevaweb.php:729
+msgid "Logout"
+msgstr "Sair"
+
+#: elevaweb.php:734 elevaweb.php:770 elevaweb_include.php:311
+msgid "Login"
+msgstr "Entrar"
+
+#: elevaweb.php:735
+msgid "Register"
+msgstr "Registo"
+
+#: elevaweb.php:736
+msgid "Forgot Password"
+msgstr "Esqueceu a senha"
+
+#: elevaweb.php:760 elevaweb_include.php:108 elevaweb_include.php:325
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: elevaweb.php:763
+msgid "E-mail"
+msgstr "O email"
+
+#: elevaweb.php:766 elevaweb_include.php:117
+msgid "Password"
+msgstr "Senha"
+
+#: elevaweb.php:774 elevaweb_include.php:121
+msgid "Create Account"
+msgstr "Criar Conta"
+
+#: elevaweb.php:779
+msgid "Forgot your password? Click here to "
+msgstr "Esqueceu sua senha? Clique aqui para "
+
+#: elevaweb.php:779 elevaweb_include.php:304
+msgid "Recover"
+msgstr "Recuperar"
+
+#: elevaweb.php:780
+msgid "You wil receive an e-mail with new password"
+msgstr "Você receberá um e-mail com nova senha"
+
+#: elevaweb.php:1158 elevaweb.php:1162
+msgid "Settings"
+msgstr "Configurações"
+
+#: myposts.php:13 myposts.php:14
+msgid "My Posts"
+msgstr "Minhas postagens"
+
+#: myposts.php:27
+msgid "Source Name"
+msgstr "Nome da Fonte"
+
+#: myposts.php:28
+msgid "Source Category"
+msgstr "Categoria de Origem"
+
+#: myposts.php:29
+msgid "My Site Category"
+msgstr "Categoria do meu site"
+
+#: myposts.php:30
+msgid "Status"
+msgstr "Status"
+
+#: myposts.php:31
+msgid "Actions"
+msgstr "Ações"
+
+#: myposts.php:32
+msgid "Week Day/Time"
+msgstr "Semana Dia / Hora"
+
+#: myposts.php:46
+msgid "Edit"
+msgstr "Editar"
+
+#: myposts.php:47 myposts.php:128
+msgid "Delete"
+msgstr "Excluir"
+
+#: myposts.php:49
+msgid "Pause"
+msgstr "Pausa"
+
+#: myposts.php:52
+msgid "Play"
+msgstr "Toque"
+
+#: myposts.php:58 myposts.php:200
+msgid "Active"
+msgstr "Ativo"
+
+#: myposts.php:61 myposts.php:201
+msgid "Error"
+msgstr "Erro"
+
+#: myposts.php:199
+msgid "All"
+msgstr "Todos"
+
+#: elevaweb_include.php:102
+msgid ""
+"Start by registering an account to start using Elevaweb and automate your "
+"production of content. Just enter your full name, email, and password. \""
+msgstr ""
+"Comece por registrar uma conta para começar a usar o Elevaweb e automatizar "
+"sua produção de conteúdo. Basta digitar seu nome completo, e-mail e senha. "
+
+#: elevaweb_include.php:111
+msgid "Full Name"
+msgstr "Nome completo"
+
+#: elevaweb_include.php:114
+msgid "Email"
+msgstr "O email"
+
+#: elevaweb_include.php:128
+msgid "Do you have an account?"
+msgstr "Você tem uma conta?"
+
+#: elevaweb_include.php:128
+msgid "click here"
+msgstr "Clique aqui"
+
+#: elevaweb_include.php:202
+msgid "Welcome to Elevaweb, now you can auto post in your website."
+msgstr ""
+"Bem-vindo à Elevaweb, agora você pode postar automaticamente em seu site."
+
+#: elevaweb_include.php:203
+msgid ""
+"To create your first Blog Post automation click on the pencil (right) and "
+"select which content do you want in your website."
+msgstr ""
+"Para criar sua primeira automação do Blog Post, clique no lápis (à direita) "
+"e selecione o conteúdo que deseja no seu site."
+
+#: elevaweb_include.php:204
+msgid ""
+"There we will explain you how to do that. If you prefer, can watch this\n"
+"step by step video (link > <a href=\"https://goo.gl/CMSr5w)\" "
+"target=\"_blank\">https://goo.gl/CMSr5w)</a>."
+msgstr ""
+"Lá vamos explicar-lhe como fazer isso. Se você preferir, pode assistir isso\n"
+"Vídeo passo a passo (link> <a href=\"https://goo.gl/CMSr5w)\" "
+"target=\"_blank\"> https://goo.gl/CMSr5w) </a>."
+
+#: elevaweb_include.php:206
+msgid "Thanks\""
+msgstr "Obrigado\""
+
+#: elevaweb_include.php:209
+msgid "Last Post"
+msgstr "Última postagem"
+
+#: elevaweb_include.php:298
+msgid "Recover Password"
+msgstr "Recuperar senha"
+
+#: elevaweb_include.php:300
+msgid "Enter Email"
+msgstr "Digite e-mail"
+
+#: elevaweb_include.php:310
+msgid "You will receive an email with new password"
+msgstr "Você receberá um e-mail com nova senha"
+
+#: elevaweb_include.php:311
+msgid "Remember your password? click here to "
+msgstr "Lembra sua senha? Clique aqui para "
+
+#: elevaweb_include.php:329
+msgid "Old Password"
+msgstr "Senha Antiga"
+
+#: elevaweb_include.php:332
+msgid "New Password"
+msgstr "Nova senha"
+
+#: elevaweb_include.php:498 elevaweb_actions.php:282
+msgid "Something Went Wrong"
+msgstr "Algo foi errado"
+
+#: elevaweb_include.php:543
+msgid "Your Domain has been forbidden."
+msgstr "Seu Domínio foi proibido."
+
+#: elevaweb_include.php:687 elevaweb_include.php:710
+msgid "Your post has been scheduled. You can check it in myposts"
+msgstr "Sua postagem foi agendada. Você pode verificá-lo nos meus postos"
+
+#: elevaweb_include.php:694 elevaweb_include.php:720
+msgid "Error while processing your request. Please try again."
+msgstr "Erro ao processar seu pedido. Por favor, tente novamente."
+
+#: elevaweb_include.php:1074 elevaweb_include.php:1081
+msgid "Sorry! No post found."
+msgstr "Desculpa! Nenhuma postagem encontrada."
+
+#: log.php:24 templates/edit-post.php:109
+msgid "Post Title"
+msgstr "Título do cargo"
+
+#: log.php:25
+msgid "Original Post Link"
+msgstr "Link de publicação original"
+
+#: log.php:26
+msgid "Category"
+msgstr "Categoria"
+
+#: log.php:28
+msgid "Date and time for publication"
+msgstr "Data e hora da publicação"
+
+#: elevaweb_actions.php:14 elevaweb_actions.php:465 elevaweb_actions.php:499
+msgid "Duplicate Entry Found"
+msgstr "Entrada duplicada encontrada"
+
+#: elevaweb_actions.php:31 elevaweb_actions.php:139
+msgid "Success"
+msgstr "Sucesso"
+
+#: elevaweb_actions.php:34
+msgid "Maximum Account Limit Reached"
+msgstr "Limite Máximo de Conta Chegou"
+
+#: elevaweb_actions.php:37
+msgid "Some Parameters Are Missing"
+msgstr "Alguns parâmetros estão faltando"
+
+#: elevaweb_actions.php:111
+msgid "No Results Found"
+msgstr "Nenhum resultado encontrado"
+
+#: elevaweb_actions.php:114
+msgid "Id Not Define"
+msgstr "Id Não Definir"
+
+#: elevaweb_actions.php:280
+msgid "Deleted Successfully"
+msgstr "Excluído com sucesso"
+
+#: elevaweb_actions.php:483 elevaweb_actions.php:511
+msgid "Maximum Amount Reached"
+msgstr "Montante máximo alcançado"
+
+#: templates/new-post.php:29 templates/edit-post.php:13
+msgid "Choose Source/Website"
+msgstr "Escolha Fonte / Website"
+
+#: templates/new-post.php:31 templates/edit-post.php:15
+msgid "Source:"
+msgstr "Fonte:"
+
+#: templates/new-post.php:34 templates/edit-post.php:18
+msgid "--select feed--"
+msgstr "- Selecione o feed -"
+
+#: templates/new-post.php:42 templates/edit-post.php:32
+msgid "Please select the feed."
+msgstr "Selecione o feed."
+
+#: templates/new-post.php:44 templates/new-post.php:53
+#: templates/edit-post.php:34 templates/edit-post.php:85
+msgid "Category:"
+msgstr "Categoria:"
+
+#: templates/new-post.php:47 templates/edit-post.php:38
+msgid "--select feed first--"
+msgstr "- Selecione o feed primeiro -"
+
+#: templates/new-post.php:50 templates/edit-post.php:40
+msgid "Please select the feed category."
+msgstr "Selecione a categoria de feed."
+
+#: templates/new-post.php:52 templates/edit-post.php:84
+msgid "In Your Blog"
+msgstr "No seu blog"
+
+#: templates/new-post.php:56 templates/edit-post.php:88
+msgid "--select a destination category--"
+msgstr "--selecione uma categoria de destino -"
+
+#: templates/new-post.php:65 templates/edit-post.php:103
+msgid "Tags:"
+msgstr "Tag:"
+
+#: templates/new-post.php:69
+msgid "Title: "
+msgstr "Título:"
+
+#: templates/new-post.php:74 templates/edit-post.php:112
+msgid "Don’t publish posts with these words :"
+msgstr "Não publique mensagens com estas palavras:"
+
+#: templates/new-post.php:80 templates/edit-post.php:120
+msgid "Publish online posts with these words :"
+msgstr "Publique posts online com estas palavras:"
+
+#: templates/new-post.php:91 templates/edit-post.php:135
+msgid "Images:"
+msgstr "Imagens:"
+
+#: templates/new-post.php:96 templates/edit-post.php:147
+msgid "Skip posts without image"
+msgstr "Passar posts sem imagem"
+
+#: templates/new-post.php:99 templates/edit-post.php:157
+msgid "Remove post image"
+msgstr "Remover imagem da publicação"
+
+#: templates/new-post.php:102 templates/edit-post.php:167
+msgid "Add image"
+msgstr "Adicionar imagem"
+
+#: templates/new-post.php:105 templates/edit-post.php:182
+msgid ""
+"It will force use these images and ignore source found images\n"
+"\t(image URL comma separated)"
+msgstr ""
+"Forçará a usar essas imagens e ignorará as imagens encontradas na fonte\n"
+"(URL da imagem separada por vírgulas)"
+
+#: templates/new-post.php:108 templates/edit-post.php:193
+msgid "Select Day and time to publish:"
+msgstr "Selecione Dia e hora para publicar:"
+
+#: templates/new-post.php:113 templates/edit-post.php:198
+msgid "Sunday"
+msgstr "Domingo"
+
+#: templates/new-post.php:114 templates/edit-post.php:199
+msgid "Monday"
+msgstr "Seg"
+
+#: templates/new-post.php:115 templates/edit-post.php:200
+msgid "Tuesday"
+msgstr "Ter"
+
+#: templates/new-post.php:116 templates/edit-post.php:201
+msgid "Wednesday"
+msgstr "Qua"
+
+#: templates/new-post.php:117 templates/edit-post.php:202
+msgid "Thursday"
+msgstr "Qui"
+
+#: templates/new-post.php:118 templates/edit-post.php:203
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: templates/new-post.php:119 templates/edit-post.php:204
+msgid "Saturday"
+msgstr "Sábado"
+
+#: templates/new-post.php:208 templates/edit-post.php:349
+msgid "Please select the day."
+msgstr "Selecione o dia."
+
+#: templates/new-post.php:212 templates/new-post.php:216
+#: templates/edit-post.php:357
+msgid "Hour"
+msgstr "Hora"
+
+#: templates/new-post.php:222
+msgid "00"
+msgstr "00"
+
+#: templates/new-post.php:229 templates/edit-post.php:386
+msgid "Please select the time."
+msgstr "Selecione a hora."
+
+#: templates/new-post.php:233 templates/edit-post.php:389
+#: templates/profile.php:54
+msgid "Save"
+msgstr "Salve"
+
+#: templates/new-post.php:234
+msgid "Save and Publish"
+msgstr "Salvar e Publicar"
+
+#: templates/myposts.php:12
+msgid "My Posts Configuration"
+msgstr "Configuração de minhas mensagens"
+
+#: templates/edit-post.php:105
+msgid "Use comma to separate each tag"
+msgstr "Use vírgula para separar cada tag"
+
+#: templates/edit-post.php:107
+msgid "Title:"
+msgstr "Título:"
+
+#: templates/edit-post.php:114
+msgid ""
+"The robot will not post articles it contains one or more or this word (comma "
+"separated)"
+msgstr ""
+"O robô não publicará artigos que contenha uma ou mais ou esta palavra "
+"(separada por vírgulas)"
+
+#: templates/edit-post.php:122
+msgid ""
+"The robot will read the texts and post only the article it contains\n"
+"\tone or mor of this word.(comma separated)"
+msgstr ""
+"O robô lerá os textos e publicará apenas o artigo que ele contém\n"
+"Um ou mais desta palavra. (Separado por vírgula)"
+
+#: templates/edit-post.php:353
+msgid "Time"
+msgstr "Tempo"
+
+#: templates/edit-post.php:371
+msgid "Minutes"
+msgstr "Minutos"
+
+#: templates/log.php:2
+msgid "Last Posts"
+msgstr "Últimas postagens"
+
+#: templates/profile.php:17
+msgid "User Information"
+msgstr "Informação do usuário"
+
+#: templates/profile.php:35
+msgid "Name:"
+msgstr "Nome:"
+
+#: templates/profile.php:39
+msgid "E-Mail:"
+msgstr "O email:"
+
+#: templates/profile.php:43
+msgid "Phone:"
+msgstr "Telefone:"
+
+#: templates/profile.php:47
+msgid "Website:"
+msgstr "Local na rede Internet:"
+
+#: templates/profile.php:49
+msgid "Active Services:"
+msgstr "Serviços ativos:"
+
+#: templates/profile.php:50
+msgid "content, e-mail, sharing (edit)"
+msgstr "Conteúdo, e-mail, compartilhamento (editar)"
+
+#: templates/profile.php:51
+msgid "Registration Date:"
+msgstr "Data de registro:"
+
+#. Description of the plugin
+msgid "Plugin for Elevaweb Auto Post."
+msgstr "Plugin para Elevaweb Auto Post."
+
+#. URI of the plugin
+msgid "http://URI_Of_Page_Describing_Plugin_and_Updates"
+msgstr "http://URI_Of_Page_Describing_Plugin_and_Updates"
+
+#. Author URI of the plugin
+msgid "http://URI_Of_The_Plugin_Author"
+msgstr "http://URI_Of_The_Plugin_Author"
